@@ -20,7 +20,7 @@
 #define BLYNK_AUTH_TOKEN "gO972g9igJhqEvKL4D5D3ID3jrYZgVso"
 char auth[] = BLYNK_AUTH_TOKEN ; //Enter Authentication code sent by Blynk
 char ssid[] = "Lucky"; //Enter WIFI Name
-char pass[] = "@lucky123@"; //Enter WIFI Password
+char pass[] = ""; //Enter WIFI Password
  
 SimpleTimer timer;
  
